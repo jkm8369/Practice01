@@ -9,21 +9,18 @@ public class Ex28 {
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.print("환전할 원화를 입력하세요: ");
-		
 		double won = sc.nextDouble();
+		
 		final double DOLLAR = 1230.95;
-		double dollar = won/DOLLAR; 
-		System.out.print("받으실 달러는 " + dollar);
 		
 		
 		
-		
-		
+		System.out.println("받으실 달러는 " + won/DOLLAR );
 		
 		
 		sc.close();
-		
-		
-		
 	}
 }
+		
+		
+		

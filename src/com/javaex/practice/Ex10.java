@@ -5,7 +5,7 @@ public class Ex10 {
 	public static void main(String[] args) {
 		
 		/*
-		(1) byte
+		(1) byte , boolean
 		(2) short
 		(3) 2byte
 		(4) 4byte
